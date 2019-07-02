@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "//players/static/css/main.f3cd5af6.chunk.css",
-    "main.js": "//players/static/js/main.c61da2fa.chunk.js",
-    "main.js.map": "//players/static/js/main.c61da2fa.chunk.js.map",
-    "runtime~main.js": "//players/static/js/runtime~main.45b1b182.js",
-    "runtime~main.js.map": "//players/static/js/runtime~main.45b1b182.js.map",
-    "static/css/2.0624914a.chunk.css": "//players/static/css/2.0624914a.chunk.css",
-    "static/js/2.9474b5f3.chunk.js": "//players/static/js/2.9474b5f3.chunk.js",
-    "static/js/2.9474b5f3.chunk.js.map": "//players/static/js/2.9474b5f3.chunk.js.map",
-    "index.html": "//players/index.html",
-    "precache-manifest.0de9b09c13fcb9a786eec9456b60622d.js": "//players/precache-manifest.0de9b09c13fcb9a786eec9456b60622d.js",
-    "service-worker.js": "//players/service-worker.js",
-    "static/css/2.0624914a.chunk.css.map": "//players/static/css/2.0624914a.chunk.css.map",
-    "static/css/main.f3cd5af6.chunk.css.map": "//players/static/css/main.f3cd5af6.chunk.css.map"
+    "main.css": "/players/static/css/main.f3cd5af6.chunk.css",
+    "main.js": "/players/static/js/main.c0092005.chunk.js",
+    "main.js.map": "/players/static/js/main.c0092005.chunk.js.map",
+    "runtime~main.js": "/players/static/js/runtime~main.4927ad65.js",
+    "runtime~main.js.map": "/players/static/js/runtime~main.4927ad65.js.map",
+    "static/css/2.0624914a.chunk.css": "/players/static/css/2.0624914a.chunk.css",
+    "static/js/2.9474b5f3.chunk.js": "/players/static/js/2.9474b5f3.chunk.js",
+    "static/js/2.9474b5f3.chunk.js.map": "/players/static/js/2.9474b5f3.chunk.js.map",
+    "index.html": "/players/index.html",
+    "precache-manifest.d3d83e230f4109eed9b06daf5ae2be5d.js": "/players/precache-manifest.d3d83e230f4109eed9b06daf5ae2be5d.js",
+    "service-worker.js": "/players/service-worker.js",
+    "static/css/2.0624914a.chunk.css.map": "/players/static/css/2.0624914a.chunk.css.map",
+    "static/css/main.f3cd5af6.chunk.css.map": "/players/static/css/main.f3cd5af6.chunk.css.map"
   }
 }
